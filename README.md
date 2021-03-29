@@ -15,7 +15,8 @@ removed trainer syntax <br>
 changed font size<br>
 changed font color<br>
 changed  line height <br>
-
+added span section to hero text<br>
+added information to "about me" section
 
 
 
