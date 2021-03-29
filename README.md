@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# challenge_2
-=======
 copied run-buddy html/css to use as skeleton<br>
 removed hero section<br>
 added background image<br>
@@ -12,6 +9,13 @@ renamed classes<br>
 removed trainers and changed section to education <br>
 changed html and css codes from trainer to education<br>
 added profile photo<br>
-removed "steps"
+removed "steps" section<br>
+added lorem imsum in about me section<br>
+removed trainer syntax <br>
+changed font size<br>
+changed font color<br>
+changed  line height <br>
 
->>>>>>> challenge 2
+
+
+
