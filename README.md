@@ -16,7 +16,7 @@ changed font size<br>
 changed font color<br>
 changed  line height <br>
 added span section to hero text<br>
-added information to "about me" section
-
+added information to "about me" section<br>
+added section id to about me and previous work sections
 
 
