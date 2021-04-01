@@ -17,6 +17,10 @@ changed font color<br>
 changed  line height <br>
 added span section to hero text<br>
 added information to "about me" section<br>
-added section id to about me and previous work sections
+added section id to about me and previous work sections<br>
+git hub repo- https://github.com/Jrvillena/challenge_2 (Links to an external site.)<br>
+landing page- https://jrvillena.github.io/challenge_2/
+
+
 
 
